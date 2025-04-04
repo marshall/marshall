@@ -1,9 +1,8 @@
 ### heya 👋
 
-I'm a passionate entrepreneur, developer, and [skeptic](https://en.wikipedia.org/wiki/Skeptical_movement) trying to change the world with open source software.
+I'm a passionate entrepreneur, engineer, and [skeptic](https://en.wikipedia.org/wiki/Skeptical_movement) creating meaningful software for people at scale.
 
-For the last 20 years, I've had the good fortune of being involved in just about every stage and role of multiple ground-breaking open source projects and technology companies.
-
+For the last 30 years, my career has spanned the gamut of open source software, high growth startups, and the space industry. My code has been deployed to millions of devices around the globe, and been to space on more than a dozen satellites. 
 
 <!--
 **marshall/marshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
